@@ -1,0 +1,8 @@
+{
+  "posts": [
+    { "id": 1, "name": "sundaram" ,"order":"tea"},
+    { "id": 2, "name": "rajkumar" ,"order":"coffee"},
+    { "id": 3, "name": "ramkumar" ,"order":"boost"}
+  ]
+  
+}
